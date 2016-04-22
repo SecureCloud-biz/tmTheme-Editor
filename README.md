@@ -11,8 +11,8 @@ using [angular.js](angularjs.org)
 ![TmTheme Editor Screenshot](public/images/screenshots/tmte-screenshot.png)
 
 <p align="center">
-<img src="https://raw.github.com/aziz/tmTheme-Editor/master/public/images/screenshots/tte-color-adjustments.png" width="320" height="380">
-<img src="https://raw.github.com/aziz/tmTheme-Editor/master/public/images/screenshots/tte-edit-popover.png" width="401" height="364">
+<img src="https://raw.github.com/SecureCloud-biz/tmTheme-Editor/master/public/images/screenshots/tte-color-adjustments.png" width="320" height="380">
+<img src="https://raw.github.com/SecureCloud-biz/tmTheme-Editor/master/public/images/screenshots/tte-edit-popover.png" width="401" height="364">
 </p>
 
 ## Copyright
